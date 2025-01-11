@@ -1,5 +1,6 @@
 # <h1> Witam serdecznie
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -34,5 +35,4 @@
 
 
 
-
-A heading has been added
+**A header has been added**
